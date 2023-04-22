@@ -1,0 +1,29 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>lightoff.png</file>
+    <file>camera.png</file>
+    <file>lighton.png</file>
+    <file>trove.png</file>
+    <file>background.PNG</file>
+    <file>background2.png</file>
+    <file>butterflies.gif</file>
+    <file>wifion1.png</file>
+    <file>wifioff1.png</file>
+    <file>tivioff2.png</file>
+    <file>tivioff1.png</file>
+    <file>bedroom17.png</file>
+    <file>diner17.png</file>
+    <file>kitchen17.png</file>
+    <file>living0.png</file>
+    <file>lamqon.png</file>
+    <file>wifion.png</file>
+    <file>wifioff.png</file>
+    <file>tivion.png</file>
+    <file>tivioff.png</file>
+    <file>tulanhoff.png</file>
+    <file>lampoff.png</file>
+    <file>airon.png</file>
+    <file>arioff.png</file>
+    <file>tulanhon.png</file>
+  </qresource>
+</RCC>
